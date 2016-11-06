@@ -1,4 +1,4 @@
-# Swift Playground (Dicionário)
+# Swift Playground (Dictionary)
 
 Sample used data dictionary
 
